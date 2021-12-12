@@ -5,7 +5,7 @@
 ##### Sadre Yaker – sy3009
 ---
 
-Project 1 - Top 10 causes of 311 calls <br />
+Project 1 - Top 10 causes of 311 calls <br /> <br />
 Chosen zip code: 10466 <br /> <br />
 The first file (Top10.ipynb) gives some insights about the 311 calls in New York City. First, it describes the number of incidents in 2020 with respect to the different Zip Codes. Then, it provides a list the 10 most common incidents around a chosen Zip Code (10001), with the name and the number of incident of each type.
 
